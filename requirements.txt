@@ -1,0 +1,10 @@
+yfinance>=0.2.40
+pandas>=2.0
+psycopg2-binary>=2.9
+python-dotenv>=1.0
+requests>=2.31
+APScheduler>=3.10,<4
+fastapi>=0.110
+uvicorn>=0.29
+backtrader>=1.9.78
+numpy>=1.26

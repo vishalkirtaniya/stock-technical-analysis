@@ -5,7 +5,7 @@ Nifty 100 data pipeline -> backtesting -> strategy signals -> ML prediction.
 ## Status
 
 - [x] Step 1-2: Yahoo Finance -> Supabase (PostgreSQL), incremental updates
-- [ ] Step 3: Backtrader parameter-grid backtesting
+- [x] Step 3: Backtrader parameter-grid backtesting
 - [ ] Step 4: Scheduled strategy runs with best parameters
 - [ ] Step 5: ML model
 - [ ] Step 6: Backend + frontend
